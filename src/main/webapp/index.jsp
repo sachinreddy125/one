@@ -58,8 +58,8 @@
         }
 
         .logo {
-            font-size: 8px;
-            font-weight: 100;
+            font-size: 28px;
+            font-weight: 700;
             color: var(--primary);
             text-decoration: none;
             font-family: 'Poppins', sans-serif;
