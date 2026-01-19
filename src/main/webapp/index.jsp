@@ -58,7 +58,7 @@
         }
 
         .logo {
-            font-size: 75px;
+            font-size: 28px;
             font-weight: 700;
             color: var(--primary);
             text-decoration: none;
