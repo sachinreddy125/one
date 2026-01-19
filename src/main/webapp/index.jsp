@@ -58,7 +58,7 @@
         }
 
         .logo {
-            font-size: 28px;
+            font-size: 75px;
             font-weight: 700;
             color: var(--primary);
             text-decoration: none;
@@ -826,7 +826,7 @@
     <!-- Hero Section -->
     <section class="hero">
         <div class="hero-content">
-            <h1>Summer Collection in 2029</h1>
+            <h1>Summer Collection in 2045</h1>
             <p>Discover the latest trends in fashion, technology and accessories with up to 50% off selected items</p>
             <div class="hero-buttons">
                 <a href="#" class="btn btn-primary">Shop Now</a>
